@@ -2,7 +2,8 @@
 
 class Operation
 {
-
+    // premiere modif git
+    
     private $_lien = DBPATH;
     private $_user = DBUSER;
     private $_pass = DBPASS;
